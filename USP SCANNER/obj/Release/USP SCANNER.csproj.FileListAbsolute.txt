@@ -1,0 +1,16 @@
+C:\Users\l4tr0d3ctism\documents\visual studio 2015\Projects\USP SCANNER\USP SCANNER\bin\Release\USP SCANNER.exe
+C:\Users\l4tr0d3ctism\documents\visual studio 2015\Projects\USP SCANNER\USP SCANNER\bin\Release\USP SCANNER.pdb
+C:\Users\l4tr0d3ctism\documents\visual studio 2015\Projects\USP SCANNER\USP SCANNER\obj\Release\USP SCANNER.csprojResolveAssemblyReference.cache
+C:\Users\l4tr0d3ctism\documents\visual studio 2015\Projects\USP SCANNER\USP SCANNER\obj\Release\USP_SCANNER.USPScanfrm.resources
+C:\Users\l4tr0d3ctism\documents\visual studio 2015\Projects\USP SCANNER\USP SCANNER\obj\Release\USP_SCANNER.Properties.Resources.resources
+C:\Users\l4tr0d3ctism\documents\visual studio 2015\Projects\USP SCANNER\USP SCANNER\obj\Release\USP SCANNER.csproj.GenerateResource.Cache
+C:\Users\l4tr0d3ctism\documents\visual studio 2015\Projects\USP SCANNER\USP SCANNER\obj\Release\USP SCANNER.exe
+C:\Users\l4tr0d3ctism\documents\visual studio 2015\Projects\USP SCANNER\USP SCANNER\obj\Release\USP SCANNER.pdb
+C:\Users\l4tr0d3ctism\Documents\Visual Studio 2015\Projects\USPSCANNER\USP SCANNER\obj\Release\USP SCANNER.exe
+C:\Users\l4tr0d3ctism\Documents\Visual Studio 2015\Projects\USPSCANNER\USP SCANNER\obj\Release\USP SCANNER.pdb
+C:\Users\l4tr0d3ctism\Documents\Visual Studio 2015\Projects\USPSCANNER\USP SCANNER\bin\Release\USP SCANNER.exe
+C:\Users\l4tr0d3ctism\Documents\Visual Studio 2015\Projects\USPSCANNER\USP SCANNER\bin\Release\USP SCANNER.pdb
+C:\Users\l4tr0d3ctism\Documents\Visual Studio 2015\Projects\USPSCANNER\USP SCANNER\obj\Release\USP SCANNER.csprojResolveAssemblyReference.cache
+C:\Users\l4tr0d3ctism\Documents\Visual Studio 2015\Projects\USPSCANNER\USP SCANNER\obj\Release\USP_SCANNER.USPScanfrm.resources
+C:\Users\l4tr0d3ctism\Documents\Visual Studio 2015\Projects\USPSCANNER\USP SCANNER\obj\Release\USP_SCANNER.Properties.Resources.resources
+C:\Users\l4tr0d3ctism\Documents\Visual Studio 2015\Projects\USPSCANNER\USP SCANNER\obj\Release\USP SCANNER.csproj.GenerateResource.Cache

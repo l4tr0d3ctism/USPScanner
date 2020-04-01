@@ -1,0 +1,8 @@
+c:\users\l4tr0d3ctism\documents\visual studio 2015\Projects\USP SCANNER\USP SCANNER\bin\Debug\USP SCANNER.exe
+c:\users\l4tr0d3ctism\documents\visual studio 2015\Projects\USP SCANNER\USP SCANNER\bin\Debug\USP SCANNER.pdb
+c:\users\l4tr0d3ctism\documents\visual studio 2015\Projects\USP SCANNER\USP SCANNER\obj\Debug\USP SCANNER.csprojResolveAssemblyReference.cache
+c:\users\l4tr0d3ctism\documents\visual studio 2015\Projects\USP SCANNER\USP SCANNER\obj\Debug\USP_SCANNER.Properties.Resources.resources
+c:\users\l4tr0d3ctism\documents\visual studio 2015\Projects\USP SCANNER\USP SCANNER\obj\Debug\USP SCANNER.csproj.GenerateResource.Cache
+c:\users\l4tr0d3ctism\documents\visual studio 2015\Projects\USP SCANNER\USP SCANNER\obj\Debug\USP SCANNER.exe
+c:\users\l4tr0d3ctism\documents\visual studio 2015\Projects\USP SCANNER\USP SCANNER\obj\Debug\USP SCANNER.pdb
+C:\Users\l4tr0d3ctism\documents\visual studio 2015\Projects\USP SCANNER\USP SCANNER\obj\Debug\USP_SCANNER.USPScanfrm.resources
