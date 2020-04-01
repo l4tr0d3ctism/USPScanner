@@ -31,6 +31,6 @@ https://docs.microsoft.com/en-us/windows/desktop/api/processthreadsapi/nf-proces
 
 With this program you can enumerate and patch "nquoted Service Path" vulnerability in your system and Create **POC** For Them. 
 
-![Image of Yaktocat](https://github.com/l4tr0d3ctism/UPSScanner/blob/master/USPSCANNER/bin/Release/program.jpg)
+![Image of Yaktocat](https://github.com/l4tr0d3ctism/USPScanner/blob/master/USP%20SCANNER/bin/Release/program.jpg)
 
 Need File: .NET Framwork 3.5
